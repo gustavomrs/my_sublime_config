@@ -1,1 +1,1 @@
-Minhas configurações e key_maps para o sublime.
+Minhas configurações e key_maps para o sublime-text.
